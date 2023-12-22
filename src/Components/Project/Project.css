@@ -1,0 +1,20 @@
+#project {
+  background-color: black;
+  padding: 5rem 10rem;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+.project_title {
+  color: rgb(58, 108, 244);
+  text-align: center;
+  font-size: 1.5rem !important;
+  font-weight: 500;
+  margin: 1.5rem;
+}
+
+@media only screen and (max-width: 800px) {
+  #project {
+    padding: 1rem;
+  }
+}

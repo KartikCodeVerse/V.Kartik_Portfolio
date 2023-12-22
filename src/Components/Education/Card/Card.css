@@ -1,0 +1,33 @@
+.card {
+  width: 40%;
+  height: 30%;
+  font-size: 15px;
+  /* justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+  box-shadow: rgba(1, 1, 1, 0.15) 0px 5px 25px;
+  background: rgb(255, 255, 255);
+  margin: 10px;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.course_name {
+  font-size: large;
+  color: cadetblue;
+}
+
+.school_name {
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
+
+.pass_year {
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+  .card {
+    width: 100%;
+  }
+}

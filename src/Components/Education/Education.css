@@ -1,0 +1,31 @@
+#education {
+  padding: 5rem 10rem;
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+.education_title {
+  color: rgb(58, 108, 244);
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 1.5rem;
+}
+
+.education_stages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+  #education {
+    padding: 1rem;
+  }
+  .education_stages {
+    flex-direction: column;
+  }
+}
