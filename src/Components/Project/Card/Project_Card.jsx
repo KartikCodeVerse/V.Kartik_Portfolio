@@ -1,7 +1,15 @@
 import React from "react";
 import "./Project_Card.css";
 
-const Project_Card = ({ img, heading, para, features, stacks }) => {
+const Project_Card = ({
+  img,
+  heading,
+  para,
+  features,
+  stacks,
+  deploy,
+  code,
+}) => {
   return (
     <div className="proj_card">
       <div className="proj_left">
@@ -27,8 +35,13 @@ const Project_Card = ({ img, heading, para, features, stacks }) => {
           <p className="para">{stacks}</p>
         </div>
         <div className="btns">
-          <button className="btn proj_btn">Deploy</button>
-          <button className="btn proj_btn">Code</button>
+          <a className="btn proj_btn" href={deploy} target="_blank">
+            Deploy
+          </a>
+
+          <a className="btn proj_btn" href={code} target="_blank">
+            Code
+          </a>
         </div>
       </div>
     </div>
