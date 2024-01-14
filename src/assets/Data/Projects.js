@@ -6,8 +6,8 @@ export const Projects = [
   {
     img: YouTube_Clone,
     heading: "YOUTUBE.COM",
-    deploy: "https://spotify-clone31.netlify.app/",
-    code: "https://github.com/KartikCodeVerse/Spotify_Clone",
+    deploy: "https://youtubeclone-mern.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/youtube_clone?tab=readme-ov-file",
     para: "Online video sharing and social media platform.",
     features: [
       "Upload Video feature",
@@ -19,6 +19,8 @@ export const Projects = [
   {
     img: Spotify_Clone,
     heading: "SPOTIFY.COM",
+    deploy: "https://spotify-clone31.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/Spotify_Clone",
     para: "A meticulously crafted music streaming application.",
     features: [
       "Immersive Music Experience",
