@@ -1,12 +1,13 @@
 import proj1 from "../proj1.png";
 import YouTube_Clone from "../youtube_clone.png";
+import Spotify_Clone from "../spotify_clone.jpg";
 
 export const Projects = [
   {
     img: YouTube_Clone,
     heading: "YOUTUBE.COM",
     deploy: "https://youtubeclone-mern.netlify.app/",
-    code:"https://github.com/KartikCodeVerse/youtube_clone?tab=readme-ov-file",
+    code: "https://github.com/KartikCodeVerse/youtube_clone?tab=readme-ov-file",
     para: "Online video sharing and social media platform.",
     features: [
       "Upload Video feature",
@@ -16,15 +17,15 @@ export const Projects = [
     stacks: "HTML CSS JavaScript NodeJS Reactjs Expressjs Mongodb ",
   },
   {
-    img: proj1,
-    heading: "UBUY.COM",
-    para: "An e-commerce web application for buying products via online.",
+    img: Spotify_Clone,
+    heading: "SPOTIFY.COM",
+    para: "A meticulously crafted music streaming application.",
     features: [
-      " Product discovery page",
-      "Easy navigation and design",
-      "Plenty of varieties and choices",
+      "Immersive Music Experience",
+      "Super Cool Responsiveness",
+      "Built with React",
     ],
-    stacks: "HTML CSS JavaScript",
+    stacks: "HTML CSS JavaScript Reactjs Redux",
   },
   {
     img: proj1,
