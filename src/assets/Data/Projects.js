@@ -6,8 +6,8 @@ export const Projects = [
   {
     img: YouTube_Clone,
     heading: "YOUTUBE.COM",
-    deploy: "https://youtubeclone-mern.netlify.app/",
-    code: "https://github.com/KartikCodeVerse/youtube_clone?tab=readme-ov-file",
+    deploy: "https://spotify-clone31.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/Spotify_Clone",
     para: "Online video sharing and social media platform.",
     features: [
       "Upload Video feature",
