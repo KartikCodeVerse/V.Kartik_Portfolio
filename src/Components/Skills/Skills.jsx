@@ -70,8 +70,6 @@ const Skills = () => {
             src="https://cdn.svgporn.com/logos/react.svg"
             alt=""
           />
-          <img className="skill_icons" src="" alt="" />
-          <img className="skill_icons" src="" alt="" />
         </div>
       </div>
     </section>

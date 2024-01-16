@@ -16,8 +16,13 @@ const Education = () => {
     {
       course: "Full-Stack Web Development",
       school: "Udemy, Online",
-      year: "June 2023 - Present",
+      year: "June 2023 - Jan 2024",
     },
+    {
+      course: "MERN Stack Training",
+      school: "NullClass, Online",
+      year: "Nov 2023 - Jan 2024",
+    }
   ];
   return (
     <section id="education">

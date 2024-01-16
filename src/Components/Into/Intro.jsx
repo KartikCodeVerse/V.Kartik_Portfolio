@@ -9,11 +9,11 @@ const Intro = () => {
         <span className="hello">Hello,</span>
         <span className="intro_text">
           I'm <span className="intro_name">V.Kartik</span> <br />
-          Web Developer
+          MERN Stack Developer
         </span>
         <p className="para">
-          I am a skilled web designer with experience in creating <br /> visual
-          appealing & user-friendly websites..
+          I am a skilled Web Developer with experience in creating <br /> visual
+          appealing & user-friendly websites using MERN Stack..
         </p>
         <Link
           to="contact"

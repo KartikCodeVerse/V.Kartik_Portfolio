@@ -20,7 +20,7 @@ const About = () => {
             A creative and diligent aspiring full-stack developer with a
             specialization in MERN stack. Self-believing and enthusiastic, with
             a keen interest in building and designing frontend. Looking forward
-            to sharpening her skills in a challenging environment. I guarantee
+            to sharpening my skills in a challenging environment. I guarantee
             enthusiasm in work and fulfilling my projects with inexpressible
             efforts.
           </p>
