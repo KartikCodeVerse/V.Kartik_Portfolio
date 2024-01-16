@@ -1,4 +1,3 @@
-import proj1 from "../proj1.png";
 import YouTube_Clone from "../youtube_clone.png";
 import Spotify_Clone from "../spotify_clone.jpg";
 
@@ -28,16 +27,5 @@ export const Projects = [
       "Built with React",
     ],
     stacks: "HTML CSS JavaScript Reactjs Redux",
-  },
-  {
-    img: proj1,
-    heading: "ZOMATO",
-    para: "A clone of India's largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.",
-    features: [
-      " Home Page contains Collection Page",
-      "Random Recipes filters",
-      "Filtered food items data and Restaurant data",
-    ],
-    stacks: "ReactJS HTML CSS MongoDB Express NodeJS Advance JS",
   },
 ];
