@@ -34,7 +34,7 @@ export const Projects = [
     heading: "SHOPIFY.COM",
     deploy: "https://singular-starburst-2e0143.netlify.app/",
     code: "https://github.com/KartikCodeVerse/E-Commerce_FrontEnd",
-    para: "It is the virtual space where you showcase products, and online customers make selections..",
+    para: "Shopify is the virtual space where you showcase products, and online customers make selections..",
     features: [
       "Can login & logout.",
       "Resposive in all devices.",
