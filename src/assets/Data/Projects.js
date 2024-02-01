@@ -1,5 +1,6 @@
 import YouTube_Clone from "../youtube_clone.png";
 import Spotify_Clone from "../spotify_clone.jpg";
+import ECommerce from "../ecommerce.png"
 
 export const Projects = [
   {
@@ -27,5 +28,18 @@ export const Projects = [
       "Built with React",
     ],
     stacks: "HTML CSS JavaScript Reactjs Redux",
+  },
+  {
+    img: ECommerce,
+    heading: "SHOPIFY.COM",
+    deploy: "https://singular-starburst-2e0143.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/E-Commerce_FrontEnd",
+    para: "It is the virtual space where you showcase products, and online customers make selections..",
+    features: [
+      "Can login & logout.",
+      "Resposive in all devices.",
+      "Built with MERN Stack.",
+    ],
+    stacks: "HTML CSS JavaScript Reactjs Nodejs Expressjs Mongoose Mongodb",
   },
 ];
