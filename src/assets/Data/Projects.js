@@ -1,6 +1,7 @@
 import YouTube_Clone from "../youtube_clone.png";
 import Spotify_Clone from "../spotify_clone.jpg";
 import ECommerce from "../ecommerce.png"
+import Zomato_Clone from "../zomato.png"
 
 export const Projects = [
   {
