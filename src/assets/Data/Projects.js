@@ -42,4 +42,17 @@ export const Projects = [
     ],
     stacks: "HTML CSS JavaScript Reactjs Nodejs Expressjs Mongoose Mongodb",
   },
+  {
+    img: Zomato_Clone,
+    heading: "ZOMATO.COM",
+    deploy: "https://zomato-clone143.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/Zomato_FrontEnd",
+    para: "Zomato is an Indian multinational restaurant aggregator and food delivery company...",
+    features: [
+      "Structured Component Use.",
+      "Fully Resposive in all devices.",
+      "Built with Reactjs.",
+    ],
+    stacks: "HTML CSS JavaScript Reactjs Nodejs",
+  },
 ];
