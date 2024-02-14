@@ -2,6 +2,7 @@ import YouTube_Clone from "../youtube_clone.png";
 import Spotify_Clone from "../spotify_clone.jpg";
 import ECommerce from "../ecommerce.png";
 import Zomato_Clone from "../zomato.png";
+import ClatWebsite_Clone from "../clatwebsite.png";
 
 export const Projects = [
   {
@@ -63,8 +64,8 @@ export const Projects = [
     code: "https://github.com/KartikCodeVerse/Zomato_FrontEnd",
     para: "An educational institute that prepares students for undergraduate courses such as management, law, mass communication, or B.Com...",
     features: [
-      "Structured Component Use.",
-      "Fully Resposive in all devices.",
+      "Automatic Slider",
+      "Used React Icons.",
       "Built with Reactjs.",
     ],
     stacks: "HTML CSS JavaScript Reactjs Nodejs",
