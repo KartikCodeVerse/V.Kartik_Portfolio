@@ -61,13 +61,9 @@ export const Projects = [
     img: ClatWebsite_Clone,
     heading: "PRATHAMONLINE.COM",
     deploy: "https://clatpageclone708.netlify.app/",
-    code: "https://github.com/KartikCodeVerse/Zomato_FrontEnd",
+    code: "https://github.com/KartikCodeVerse/prathamonlineClone",
     para: "An educational institute that prepares students for undergraduate courses such as management, law, mass communication, or B.Com...",
-    features: [
-      "Automatic Slider",
-      "Used React Icons.",
-      "Built with Reactjs.",
-    ],
+    features: ["Automatic Slider", "Used React Icons.", "Built with Reactjs."],
     stacks: "HTML CSS JavaScript Reactjs Nodejs",
   },
 ];
