@@ -1,7 +1,7 @@
 import YouTube_Clone from "../youtube_clone.png";
 import Spotify_Clone from "../spotify_clone.jpg";
-import ECommerce from "../ecommerce.png"
-import Zomato_Clone from "../zomato.png"
+import ECommerce from "../ecommerce.png";
+import Zomato_Clone from "../zomato.png";
 
 export const Projects = [
   {
@@ -49,6 +49,19 @@ export const Projects = [
     deploy: "https://zomato-clone143.netlify.app/",
     code: "https://github.com/KartikCodeVerse/Zomato_FrontEnd",
     para: "Zomato is an Indian multinational restaurant aggregator and food delivery company...",
+    features: [
+      "Structured Component Use.",
+      "Fully Resposive in all devices.",
+      "Built with Reactjs.",
+    ],
+    stacks: "HTML CSS JavaScript Reactjs Nodejs",
+  },
+  {
+    img: ClatWebsite_Clone,
+    heading: "PRATHAMONLINE.COM",
+    deploy: "https://clatpageclone708.netlify.app/",
+    code: "https://github.com/KartikCodeVerse/Zomato_FrontEnd",
+    para: "An educational institute that prepares students for undergraduate courses such as management, law, mass communication, or B.Com...",
     features: [
       "Structured Component Use.",
       "Fully Resposive in all devices.",
