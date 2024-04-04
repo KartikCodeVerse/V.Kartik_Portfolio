@@ -105,7 +105,7 @@ const NavBar = () => {
         </Link>
         <a
           className="menu_item"
-          href="https://drive.google.com/file/d/1eIsVrIHrOOFLr7JlNRL6VlgWKol-xBGa/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1FrTInrixbM4c12CWd79bO3CuPy--kdw9/view?usp=drive_link"
           target="_blank"
         >
           Resume

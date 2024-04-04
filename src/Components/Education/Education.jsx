@@ -40,6 +40,7 @@ const Education = () => {
           />
         ))}
       </div>
+      <hr />
     </section>
   );
 };
