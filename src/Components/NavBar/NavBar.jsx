@@ -219,7 +219,7 @@ const NavBar = () => {
           </Link>
           <a
             className="burger_item"
-            href="https://drive.google.com/file/d/1wJCdYV1zsRK4D6dyj10ts8PDFodzA0-1/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1FrTInrixbM4c12CWd79bO3CuPy--kdw9/view?usp=drive_link"
             target="_blank"
           >
             Resume
