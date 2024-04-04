@@ -1,6 +1,7 @@
 import React from "react";
 import "../Education/Education.css";
 import Card from "../Education/Card/Card";
+import "./Experience.css"
 const Experience = () => {
   const education = [
     {
@@ -10,7 +11,7 @@ const Experience = () => {
     },
   ];
   return (
-    <section id="education">
+    <section id="experience">
       <div className="education_title">
         <h1 className="about_title_text">My Experience</h1>
       </div>

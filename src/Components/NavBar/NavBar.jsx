@@ -93,6 +93,17 @@ const NavBar = () => {
           Education
         </Link>
         <Link
+          to="experience"
+          activeClass="active"
+          spy={true}
+          smooth={true}
+          offset={-100}
+          duration={500}
+          className="menu_item"
+        >
+          Experience
+        </Link>
+        <Link
           to="project"
           activeClass="active"
           spy={true}
@@ -172,6 +183,17 @@ const NavBar = () => {
             className="burger_item"
           >
             Education
+          </Link>
+          <Link
+            to="experience"
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+            className="burger_item"
+          >
+            Experience
           </Link>
           <Link
             to="project"

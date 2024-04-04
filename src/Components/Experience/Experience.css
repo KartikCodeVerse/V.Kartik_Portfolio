@@ -1,0 +1,12 @@
+#experience {
+  padding: 5rem 10rem;
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+@media only screen and (max-width: 800px) {
+  #experience {
+    padding: 1rem;
+  }
+}
